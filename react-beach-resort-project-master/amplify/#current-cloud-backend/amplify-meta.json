@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reactbeachresortproj-dev-200409-authRole",
+      "UnauthRoleArn": "arn:aws:iam::545106257304:role/amplify-reactbeachresortproj-dev-200409-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::545106257304:role/amplify-reactbeachresortproj-dev-200409-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-reactbeachresortproj-dev-200409-deployment",
+      "UnauthRoleName": "amplify-reactbeachresortproj-dev-200409-unauthRole",
+      "StackName": "amplify-reactbeachresortproj-dev-200409",
+      "StackId": "arn:aws:cloudformation:us-east-2:545106257304:stack/amplify-reactbeachresortproj-dev-200409/a86da950-a282-11ec-b895-06390bd703b8",
+      "AmplifyAppId": "dt9wup67rluxu"
+    }
+  }
+}
